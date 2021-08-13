@@ -1,0 +1,23 @@
+{
+  "name": "reacttemel-odev1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AysenAlpsln/ReactTemel-Odev1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AysenAlpsln/ReactTemel-Odev1/issues"
+  },
+  "homepage": "https://github.com/AysenAlpsln/ReactTemel-Odev1#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
